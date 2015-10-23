@@ -1,12 +1,15 @@
-¶}µoÀô¹Ò:
-OS: windows 7 ¥ø·~ª© 64bit
+é–‹ç™¼ç’°å¢ƒ (development environment) :
+OS: windows 7 enterprise 64bit
 editor:	vim,wordpad++
 jdk: 1.80_60
 jre: 1.80_60
 
-°õ¦æÀô¹Ò:
-OS:windows 7 ¥ø·~ª© 64bit
+åŸ·è¡Œç’°å¢ƒ(execute environment):
+OS:windows 7 enterprise 64bit
 jdk: 1.80_60
 jre: 1.80_60
 CPU: Intel Core(TM)i5-3210M CPU @2.50GHz
 RAM: 8.00GB
+
+p.s. the file AES.java is offered by TA. 
+This practice is a little project in a course.
