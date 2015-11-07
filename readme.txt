@@ -1,6 +1,6 @@
 開發環境 (development environment) :
 OS: windows 7 enterprise 64bit
-editor:	vim,wordpad++
+editor:	vim,notedpad++
 jdk: 1.80_60
 jre: 1.80_60
 
